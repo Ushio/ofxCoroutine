@@ -9,6 +9,7 @@
 #include <boost/coroutine/coroutine.hpp>
 #endif
 
+
 class ofxCoroutine {
 public:
     void step() {
